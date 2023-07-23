@@ -1,9 +1,5 @@
-function factorial(var2) {
-    var var1 = 1;
-    for (var i = 1; i <= var2; i++) {
-        var1 *= i;
-    }
-    return var1;
+function calculateNumbers(var1, var2) {
+    console.log(var1 + var2);
 }
 
 
